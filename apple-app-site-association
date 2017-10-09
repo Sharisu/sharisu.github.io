@@ -4,7 +4,9 @@
     "details": [
     {
       "appID": "82USK6SJMA.com.pandadoc.mobile",
-      "paths": ["*"]
+      "paths": [
+          "document/*/*"
+        ]
     }
     ]
   }
