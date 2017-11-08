@@ -5,7 +5,8 @@
     {
       "appID": "82USK6SJMA.com.pandadoc.mobile",
       "paths": [
-          "/a/*",
+          "*/documents/*",
+          "/a/?/documents/*",
           "/document/*"
         ]
     }
